@@ -60,13 +60,13 @@ git --version
 Clone the project to your computer.
 
 ```
-git clone https://github.com/your-username/student-wall.git
+git clone https://github.com/Pradeeprajpoot434680/student-names
 ```
 
 Move into the project folder:
 
 ```
-cd student-wall
+cd simple-task
 ```
 
 ---
